@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0191-number-of-1-bits](https://github.com/kunjsonker/Leetcode-Problems-Solved/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/kunjsonker/Leetcode-Problems-Solved/tree/master/0268-missing-number) |
 ## String
 |  |
@@ -52,4 +53,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/kunjsonker/Leetcode-Problems-Solved/tree/master/0020-valid-parentheses) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/kunjsonker/Leetcode-Problems-Solved/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
