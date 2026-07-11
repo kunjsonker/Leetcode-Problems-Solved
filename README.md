@@ -53,8 +53,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/kunjsonker/Leetcode-Problems-Solved/tree/master/0020-valid-parentheses) |
+| [0155-min-stack](https://github.com/kunjsonker/Leetcode-Problems-Solved/tree/master/0155-min-stack) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/kunjsonker/Leetcode-Problems-Solved/tree/master/0191-number-of-1-bits) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/kunjsonker/Leetcode-Problems-Solved/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
