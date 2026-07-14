@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/kunjsonker/Leetcode-Problems-Solved/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/kunjsonker/Leetcode-Problems-Solved/tree/master/0015-3sum) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kunjsonker/Leetcode-Problems-Solved/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/kunjsonker/Leetcode-Problems-Solved/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0268-missing-number](https://github.com/kunjsonker/Leetcode-Problems-Solved/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/kunjsonker/Leetcode-Problems-Solved/tree/master/0704-binary-search) |
 ## Two Pointers
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/kunjsonker/Leetcode-Problems-Solved/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0268-missing-number](https://github.com/kunjsonker/Leetcode-Problems-Solved/tree/master/0268-missing-number) |
 ## Binary Search
 |  |
@@ -61,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/kunjsonker/Leetcode-Problems-Solved/tree/master/0020-valid-parentheses) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/kunjsonker/Leetcode-Problems-Solved/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/kunjsonker/Leetcode-Problems-Solved/tree/master/0155-min-stack) |
 ## Divide and Conquer
 |  |
