@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/kunjsonker/Leetcode-Problems-Solved/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0268-missing-number](https://github.com/kunjsonker/Leetcode-Problems-Solved/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/kunjsonker/Leetcode-Problems-Solved/tree/master/0704-binary-search) |
+| [0739-daily-temperatures](https://github.com/kunjsonker/Leetcode-Problems-Solved/tree/master/0739-daily-temperatures) |
 ## Two Pointers
 |  |
 | ------- |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/kunjsonker/Leetcode-Problems-Solved/tree/master/0020-valid-parentheses) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/kunjsonker/Leetcode-Problems-Solved/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/kunjsonker/Leetcode-Problems-Solved/tree/master/0155-min-stack) |
+| [0739-daily-temperatures](https://github.com/kunjsonker/Leetcode-Problems-Solved/tree/master/0739-daily-temperatures) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -76,4 +78,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/kunjsonker/Leetcode-Problems-Solved/tree/master/0155-min-stack) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/kunjsonker/Leetcode-Problems-Solved/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
