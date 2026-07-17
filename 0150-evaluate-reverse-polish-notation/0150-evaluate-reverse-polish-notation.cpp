@@ -1,26 +1,75 @@
 class Solution {
 public:
     int evalRPN(vector<string>& tokens) {
-        stack<int> stk;
-        int n = tokens.size();
-        for(int i =0;i<n;i++){
-            if(tokens[i] == "+" || tokens[i] == "-" || tokens[i] == "*" || tokens[i] == "/"){
-                int a = stk.top();
-                stk.pop();
-                int b = stk.top();
-                stk.pop();
-                int c = 0;
-                if(tokens[i] == "+") c = b+a;
-                else if(tokens[i] == "*") c = b*a;
-                else if(tokens[i] == "-") c = b-a;
-                else if(tokens[i] == "/") c = b/a;
-                stk.push(c);
+
+        //the question can easily be solved using stack we use a for loop
+        //we then push the integers and when we encounter an op
+        //we maintain two variables and do the operation and push the answer 
+
+        stack<int>st;
+
+
+        for(int i=0;i<tokens.size();i++){
+
+            if(tokens[i]=="+"){
+
+                int a=st.top();
+                st.pop();
+                int b=st.top();
+                st.pop();
+                
+
+                int ans=b+a;
+                st.push(ans);
+
+            }
+
+            else if(tokens[i]=="-"){
+
+                int a=st.top();
+                st.pop();
+                int b=st.top();
+                st.pop();
+                
+
+                int ans=b-a;
+                st.push(ans);
+
+            }
+            else if(tokens[i]=="*"){
+
+                int a=st.top();
+                st.pop();
+                int b=st.top();
+                st.pop();
+                int ans=b*a;
+                st.push(ans);
+
+            }
+            else if(tokens[i]=="/"){
+
+                int a=st.top();
+                st.pop();
+                int b=st.top();
+                st.pop();
+                int ans=b/a;
+                st.push(ans);
+
             }
             else{
-                int temp = stoi(tokens[i]);
-                stk.push(temp);
+                
+                st.push(stoi(tokens[i]));
+
+
             }
+
+            
+
+
+
+
         }
-        return stk.top();
+        return st.top();
+        
     }
 };
