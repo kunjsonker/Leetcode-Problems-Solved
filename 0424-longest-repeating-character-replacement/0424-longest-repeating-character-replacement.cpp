@@ -15,7 +15,7 @@ public:
             mpp[s[r]]++;
             maxx=max(maxx,mpp[s[r]]);
 
-            while((r-l+1)-maxx>k){
+            if((r-l+1)-maxx>k){
                 mpp[s[l]]--;
                 l++;
                 
