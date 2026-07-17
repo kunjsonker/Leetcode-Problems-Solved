@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/kunjsonker/Leetcode-Problems-Solved/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kunjsonker/Leetcode-Problems-Solved/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0268-missing-number](https://github.com/kunjsonker/Leetcode-Problems-Solved/tree/master/0268-missing-number) |
+| [0424-longest-repeating-character-replacement](https://github.com/kunjsonker/Leetcode-Problems-Solved/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/kunjsonker/Leetcode-Problems-Solved/tree/master/0567-permutation-in-string) |
 ## Math
 |  |
@@ -53,11 +54,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kunjsonker/Leetcode-Problems-Solved/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/kunjsonker/Leetcode-Problems-Solved/tree/master/0020-valid-parentheses) |
+| [0424-longest-repeating-character-replacement](https://github.com/kunjsonker/Leetcode-Problems-Solved/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/kunjsonker/Leetcode-Problems-Solved/tree/master/0567-permutation-in-string) |
 ## Sliding Window
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kunjsonker/Leetcode-Problems-Solved/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0424-longest-repeating-character-replacement](https://github.com/kunjsonker/Leetcode-Problems-Solved/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/kunjsonker/Leetcode-Problems-Solved/tree/master/0567-permutation-in-string) |
 ## Stack
 |  |
