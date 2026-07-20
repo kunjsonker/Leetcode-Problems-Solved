@@ -32,6 +32,7 @@ public:
             int mid = left+(right-left)/2;
 
             if(canfinish(piles,mid,h)){
+                
                 right=mid;
             }
             else{
