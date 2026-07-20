@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/kunjsonker/Leetcode-Problems-Solved/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/kunjsonker/Leetcode-Problems-Solved/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/kunjsonker/Leetcode-Problems-Solved/tree/master/0739-daily-temperatures) |
+| [0875-koko-eating-bananas](https://github.com/kunjsonker/Leetcode-Problems-Solved/tree/master/0875-koko-eating-bananas) |
 ## Two Pointers
 |  |
 | ------- |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/kunjsonker/Leetcode-Problems-Solved/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/kunjsonker/Leetcode-Problems-Solved/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/kunjsonker/Leetcode-Problems-Solved/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/kunjsonker/Leetcode-Problems-Solved/tree/master/0875-koko-eating-bananas) |
 ## Bit Manipulation
 |  |
 | ------- |
