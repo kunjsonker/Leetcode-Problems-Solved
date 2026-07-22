@@ -10,7 +10,7 @@
  */
 class Solution {
 public:
-    ListNode* reverseList(ListNode* head) {
+    ListNode* reverseList(ListNode* head) { // Reversal using stack implementation brute force
         stack<int>st;
 
         ListNode* temp=head;
