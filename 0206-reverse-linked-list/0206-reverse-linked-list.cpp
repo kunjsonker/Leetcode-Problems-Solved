@@ -10,26 +10,25 @@
  */
 class Solution {
 public:
-    ListNode* reverseList(ListNode* head) { // Reversal using stack implementation brute force
-        stack<int>st;
+    ListNode* reverseList(ListNode* head) {
 
-        ListNode* temp=head;
+        ListNode* curr=head;
+        ListNode* prev=NULL;
+        ListNode* nextt=NULL;
 
-        while(temp!=NULL){
-            st.push(temp->val);
-            temp=temp->next;
+        while(curr){
+
+            nextt=curr->next;
+            curr->next=prev;
+            prev=curr;
+            curr=nextt;
+            
+
+
+
         }
-
-        temp=head;
-        
-
-        while(temp!=NULL){
-            temp->val=st.top();
-            st.pop();
-            temp=temp->next;
-        }
+        head=prev;
         return head;
-
 
 
 
