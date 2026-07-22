@@ -9,7 +9,7 @@
 class Solution {
 public:
     bool hasCycle(ListNode *head) {
-        //this question can be solved usig fast and slow points
+        //this question can be solved usig fast and slow pointers
         ListNode* fast=head;
         ListNode* slow=head;
         
