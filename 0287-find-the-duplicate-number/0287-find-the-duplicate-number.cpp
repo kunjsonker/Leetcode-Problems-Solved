@@ -3,6 +3,7 @@ public:
     int findDuplicate(vector<int>& nums) {
         //brute force will be use a hashset
         //optimal approaxch will be floyd cycle detection
+        //VERY IMP QUESTION TO LEARN IT CANT BE DONE INTUITIVLEY
 
         int slow=0,fast=0;
 
