@@ -13,6 +13,8 @@ class Solution {
 public:
     int count=0;
     int maxDepth(TreeNode* root) {
+        //this can be solved using dfs and queue
+        //recursion technique is much more easy but difficult to build
         
         if(root==NULL) return NULL;
         
