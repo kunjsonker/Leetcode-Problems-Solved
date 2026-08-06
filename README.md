@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0263-ugly-number](https://github.com/kunjsonker/Leetcode-Problems-Solved/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/kunjsonker/Leetcode-Problems-Solved/tree/master/0268-missing-number) |
 | [0908-smallest-range-i](https://github.com/kunjsonker/Leetcode-Problems-Solved/tree/master/0908-smallest-range-i) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/kunjsonker/Leetcode-Problems-Solved/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -152,4 +153,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0077-combinations](https://github.com/kunjsonker/Leetcode-Problems-Solved/tree/master/0077-combinations) |
+## Enumeration
+|  |
+| ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/kunjsonker/Leetcode-Problems-Solved/tree/master/3345-smallest-divisible-digit-product-i) |
 <!---LeetCode Topics End-->
