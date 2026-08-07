@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/kunjsonker/Leetcode-Problems-Solved/tree/master/0002-add-two-numbers) |
+| [0007-reverse-integer](https://github.com/kunjsonker/Leetcode-Problems-Solved/tree/master/0007-reverse-integer) |
 | [0066-plus-one](https://github.com/kunjsonker/Leetcode-Problems-Solved/tree/master/0066-plus-one) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/kunjsonker/Leetcode-Problems-Solved/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0263-ugly-number](https://github.com/kunjsonker/Leetcode-Problems-Solved/tree/master/0263-ugly-number) |
