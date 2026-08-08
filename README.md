@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/kunjsonker/Leetcode-Problems-Solved/tree/master/0143-reorder-list) |
 | [0287-find-the-duplicate-number](https://github.com/kunjsonker/Leetcode-Problems-Solved/tree/master/0287-find-the-duplicate-number) |
 | [0567-permutation-in-string](https://github.com/kunjsonker/Leetcode-Problems-Solved/tree/master/0567-permutation-in-string) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/kunjsonker/Leetcode-Problems-Solved/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Sorting
 |  |
 | ------- |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kunjsonker/Leetcode-Problems-Solved/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/kunjsonker/Leetcode-Problems-Solved/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Hash Table
 |  |
 | ------- |
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/kunjsonker/Leetcode-Problems-Solved/tree/master/0020-valid-parentheses) |
 | [0424-longest-repeating-character-replacement](https://github.com/kunjsonker/Leetcode-Problems-Solved/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/kunjsonker/Leetcode-Problems-Solved/tree/master/0567-permutation-in-string) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/kunjsonker/Leetcode-Problems-Solved/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Sliding Window
 |  |
 | ------- |
@@ -172,4 +175,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/kunjsonker/Leetcode-Problems-Solved/tree/master/0543-diameter-of-binary-tree) |
+## Greedy
+|  |
+| ------- |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/kunjsonker/Leetcode-Problems-Solved/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 <!---LeetCode Topics End-->
