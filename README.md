@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/kunjsonker/Leetcode-Problems-Solved/tree/master/0739-daily-temperatures) |
 | [0875-koko-eating-bananas](https://github.com/kunjsonker/Leetcode-Problems-Solved/tree/master/0875-koko-eating-bananas) |
 | [0908-smallest-range-i](https://github.com/kunjsonker/Leetcode-Problems-Solved/tree/master/0908-smallest-range-i) |
+| [0973-k-closest-points-to-origin](https://github.com/kunjsonker/Leetcode-Problems-Solved/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/kunjsonker/Leetcode-Problems-Solved/tree/master/1046-last-stone-weight) |
 | [1140-stone-game-ii](https://github.com/kunjsonker/Leetcode-Problems-Solved/tree/master/1140-stone-game-ii) |
 | [3731-find-missing-elements](https://github.com/kunjsonker/Leetcode-Problems-Solved/tree/master/3731-find-missing-elements) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/kunjsonker/Leetcode-Problems-Solved/tree/master/0015-3sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/kunjsonker/Leetcode-Problems-Solved/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/kunjsonker/Leetcode-Problems-Solved/tree/master/0268-missing-number) |
+| [0973-k-closest-points-to-origin](https://github.com/kunjsonker/Leetcode-Problems-Solved/tree/master/0973-k-closest-points-to-origin) |
 | [3731-find-missing-elements](https://github.com/kunjsonker/Leetcode-Problems-Solved/tree/master/3731-find-missing-elements) |
 ## Dynamic Programming
 |  |
@@ -67,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0263-ugly-number](https://github.com/kunjsonker/Leetcode-Problems-Solved/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/kunjsonker/Leetcode-Problems-Solved/tree/master/0268-missing-number) |
 | [0908-smallest-range-i](https://github.com/kunjsonker/Leetcode-Problems-Solved/tree/master/0908-smallest-range-i) |
+| [0973-k-closest-points-to-origin](https://github.com/kunjsonker/Leetcode-Problems-Solved/tree/master/0973-k-closest-points-to-origin) |
 | [1140-stone-game-ii](https://github.com/kunjsonker/Leetcode-Problems-Solved/tree/master/1140-stone-game-ii) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/kunjsonker/Leetcode-Problems-Solved/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Binary Search
@@ -112,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0191-number-of-1-bits](https://github.com/kunjsonker/Leetcode-Problems-Solved/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/kunjsonker/Leetcode-Problems-Solved/tree/master/0215-kth-largest-element-in-an-array) |
+| [0973-k-closest-points-to-origin](https://github.com/kunjsonker/Leetcode-Problems-Solved/tree/master/0973-k-closest-points-to-origin) |
 ## Design
 |  |
 | ------- |
@@ -256,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/kunjsonker/Leetcode-Problems-Solved/tree/master/0215-kth-largest-element-in-an-array) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/kunjsonker/Leetcode-Problems-Solved/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0973-k-closest-points-to-origin](https://github.com/kunjsonker/Leetcode-Problems-Solved/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/kunjsonker/Leetcode-Problems-Solved/tree/master/1046-last-stone-weight) |
 ## Data Stream
 |  |
@@ -265,4 +270,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/kunjsonker/Leetcode-Problems-Solved/tree/master/0215-kth-largest-element-in-an-array) |
+| [0973-k-closest-points-to-origin](https://github.com/kunjsonker/Leetcode-Problems-Solved/tree/master/0973-k-closest-points-to-origin) |
+## Geometry
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/kunjsonker/Leetcode-Problems-Solved/tree/master/0973-k-closest-points-to-origin) |
+## K-D Tree
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/kunjsonker/Leetcode-Problems-Solved/tree/master/0973-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
