@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0973-k-closest-points-to-origin](https://github.com/kunjsonker/Leetcode-Problems-Solved/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/kunjsonker/Leetcode-Problems-Solved/tree/master/1046-last-stone-weight) |
 | [1140-stone-game-ii](https://github.com/kunjsonker/Leetcode-Problems-Solved/tree/master/1140-stone-game-ii) |
+| [1563-stone-game-v](https://github.com/kunjsonker/Leetcode-Problems-Solved/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/kunjsonker/Leetcode-Problems-Solved/tree/master/2029-stone-game-ix) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/kunjsonker/Leetcode-Problems-Solved/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/kunjsonker/Leetcode-Problems-Solved/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kunjsonker/Leetcode-Problems-Solved/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1140-stone-game-ii](https://github.com/kunjsonker/Leetcode-Problems-Solved/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/kunjsonker/Leetcode-Problems-Solved/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/kunjsonker/Leetcode-Problems-Solved/tree/master/1563-stone-game-v) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/kunjsonker/Leetcode-Problems-Solved/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Hash Table
 |  |
@@ -79,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0973-k-closest-points-to-origin](https://github.com/kunjsonker/Leetcode-Problems-Solved/tree/master/0973-k-closest-points-to-origin) |
 | [1140-stone-game-ii](https://github.com/kunjsonker/Leetcode-Problems-Solved/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/kunjsonker/Leetcode-Problems-Solved/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/kunjsonker/Leetcode-Problems-Solved/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/kunjsonker/Leetcode-Problems-Solved/tree/master/2029-stone-game-ix) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/kunjsonker/Leetcode-Problems-Solved/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Binary Search
@@ -254,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1140-stone-game-ii](https://github.com/kunjsonker/Leetcode-Problems-Solved/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/kunjsonker/Leetcode-Problems-Solved/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/kunjsonker/Leetcode-Problems-Solved/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/kunjsonker/Leetcode-Problems-Solved/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
