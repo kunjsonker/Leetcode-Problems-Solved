@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2213-longest-substring-of-one-repeating-character](https://github.com/kunjsonker/Leetcode-Problems-Solved/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/kunjsonker/Leetcode-Problems-Solved/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/kunjsonker/Leetcode-Problems-Solved/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/kunjsonker/Leetcode-Problems-Solved/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/kunjsonker/Leetcode-Problems-Solved/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/kunjsonker/Leetcode-Problems-Solved/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3731-find-missing-elements](https://github.com/kunjsonker/Leetcode-Problems-Solved/tree/master/3731-find-missing-elements) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-stone-game-iv](https://github.com/kunjsonker/Leetcode-Problems-Solved/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/kunjsonker/Leetcode-Problems-Solved/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/kunjsonker/Leetcode-Problems-Solved/tree/master/2029-stone-game-ix) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/kunjsonker/Leetcode-Problems-Solved/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/kunjsonker/Leetcode-Problems-Solved/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Binary Search
 |  |
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/kunjsonker/Leetcode-Problems-Solved/tree/master/0287-find-the-duplicate-number) |
 | [0704-binary-search](https://github.com/kunjsonker/Leetcode-Problems-Solved/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/kunjsonker/Leetcode-Problems-Solved/tree/master/0875-koko-eating-bananas) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/kunjsonker/Leetcode-Problems-Solved/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -106,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/kunjsonker/Leetcode-Problems-Solved/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/kunjsonker/Leetcode-Problems-Solved/tree/master/0287-find-the-duplicate-number) |
 | [1386-cinema-seat-allocation](https://github.com/kunjsonker/Leetcode-Problems-Solved/tree/master/1386-cinema-seat-allocation) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/kunjsonker/Leetcode-Problems-Solved/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/kunjsonker/Leetcode-Problems-Solved/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## String
 |  |
@@ -336,4 +340,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/kunjsonker/Leetcode-Problems-Solved/tree/master/3069-distribute-elements-into-two-arrays-i) |
+## Combinatorics
+|  |
+| ------- |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/kunjsonker/Leetcode-Problems-Solved/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+## Number Theory
+|  |
+| ------- |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/kunjsonker/Leetcode-Problems-Solved/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 <!---LeetCode Topics End-->
