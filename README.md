@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/kunjsonker/Leetcode-Problems-Solved/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/kunjsonker/Leetcode-Problems-Solved/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/kunjsonker/Leetcode-Problems-Solved/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+| [3783-mirror-distance-of-an-integer](https://github.com/kunjsonker/Leetcode-Problems-Solved/tree/master/3783-mirror-distance-of-an-integer) |
 | [3945-digit-frequency-score](https://github.com/kunjsonker/Leetcode-Problems-Solved/tree/master/3945-digit-frequency-score) |
 ## Binary Search
 |  |
