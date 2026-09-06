@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0115-distinct-subsequences](https://github.com/kunjsonker/Leetcode-Problems-Solved/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kunjsonker/Leetcode-Problems-Solved/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1140-stone-game-ii](https://github.com/kunjsonker/Leetcode-Problems-Solved/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/kunjsonker/Leetcode-Problems-Solved/tree/master/1510-stone-game-iv) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kunjsonker/Leetcode-Problems-Solved/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/kunjsonker/Leetcode-Problems-Solved/tree/master/0020-valid-parentheses) |
+| [0115-distinct-subsequences](https://github.com/kunjsonker/Leetcode-Problems-Solved/tree/master/0115-distinct-subsequences) |
 | [0424-longest-repeating-character-replacement](https://github.com/kunjsonker/Leetcode-Problems-Solved/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/kunjsonker/Leetcode-Problems-Solved/tree/master/0567-permutation-in-string) |
 | [1927-sum-game](https://github.com/kunjsonker/Leetcode-Problems-Solved/tree/master/1927-sum-game) |
