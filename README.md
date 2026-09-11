@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/kunjsonker/Leetcode-Problems-Solved/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/kunjsonker/Leetcode-Problems-Solved/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/kunjsonker/Leetcode-Problems-Solved/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3483-unique-3-digit-even-numbers](https://github.com/kunjsonker/Leetcode-Problems-Solved/tree/master/3483-unique-3-digit-even-numbers) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/kunjsonker/Leetcode-Problems-Solved/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/kunjsonker/Leetcode-Problems-Solved/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/kunjsonker/Leetcode-Problems-Solved/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/kunjsonker/Leetcode-Problems-Solved/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/kunjsonker/Leetcode-Problems-Solved/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/kunjsonker/Leetcode-Problems-Solved/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3483-unique-3-digit-even-numbers](https://github.com/kunjsonker/Leetcode-Problems-Solved/tree/master/3483-unique-3-digit-even-numbers) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/kunjsonker/Leetcode-Problems-Solved/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/kunjsonker/Leetcode-Problems-Solved/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/kunjsonker/Leetcode-Problems-Solved/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
@@ -213,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/kunjsonker/Leetcode-Problems-Solved/tree/master/0021-merge-two-sorted-lists) |
 | [0143-reorder-list](https://github.com/kunjsonker/Leetcode-Problems-Solved/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/kunjsonker/Leetcode-Problems-Solved/tree/master/0206-reverse-linked-list) |
+| [3483-unique-3-digit-even-numbers](https://github.com/kunjsonker/Leetcode-Problems-Solved/tree/master/3483-unique-3-digit-even-numbers) |
 ## Tree
 |  |
 | ------- |
@@ -279,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/kunjsonker/Leetcode-Problems-Solved/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3483-unique-3-digit-even-numbers](https://github.com/kunjsonker/Leetcode-Problems-Solved/tree/master/3483-unique-3-digit-even-numbers) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/kunjsonker/Leetcode-Problems-Solved/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/kunjsonker/Leetcode-Problems-Solved/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## DP on Trees
