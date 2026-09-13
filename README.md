@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/kunjsonker/Leetcode-Problems-Solved/tree/master/0287-find-the-duplicate-number) |
 | [0704-binary-search](https://github.com/kunjsonker/Leetcode-Problems-Solved/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/kunjsonker/Leetcode-Problems-Solved/tree/master/0739-daily-temperatures) |
+| [0835-image-overlap](https://github.com/kunjsonker/Leetcode-Problems-Solved/tree/master/0835-image-overlap) |
 | [0875-koko-eating-bananas](https://github.com/kunjsonker/Leetcode-Problems-Solved/tree/master/0875-koko-eating-bananas) |
 | [0908-smallest-range-i](https://github.com/kunjsonker/Leetcode-Problems-Solved/tree/master/0908-smallest-range-i) |
 | [0973-k-closest-points-to-origin](https://github.com/kunjsonker/Leetcode-Problems-Solved/tree/master/0973-k-closest-points-to-origin) |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/kunjsonker/Leetcode-Problems-Solved/tree/master/0074-search-a-2d-matrix) |
+| [0835-image-overlap](https://github.com/kunjsonker/Leetcode-Problems-Solved/tree/master/0835-image-overlap) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/kunjsonker/Leetcode-Problems-Solved/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Linked List
 |  |
