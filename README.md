@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/kunjsonker/Leetcode-Problems-Solved/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0263-ugly-number](https://github.com/kunjsonker/Leetcode-Problems-Solved/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/kunjsonker/Leetcode-Problems-Solved/tree/master/0268-missing-number) |
+| [0836-rectangle-overlap](https://github.com/kunjsonker/Leetcode-Problems-Solved/tree/master/0836-rectangle-overlap) |
 | [0908-smallest-range-i](https://github.com/kunjsonker/Leetcode-Problems-Solved/tree/master/0908-smallest-range-i) |
 | [0973-k-closest-points-to-origin](https://github.com/kunjsonker/Leetcode-Problems-Solved/tree/master/0973-k-closest-points-to-origin) |
 | [1140-stone-game-ii](https://github.com/kunjsonker/Leetcode-Problems-Solved/tree/master/1140-stone-game-ii) |
@@ -377,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Geometry
 |  |
 | ------- |
+| [0836-rectangle-overlap](https://github.com/kunjsonker/Leetcode-Problems-Solved/tree/master/0836-rectangle-overlap) |
 | [0973-k-closest-points-to-origin](https://github.com/kunjsonker/Leetcode-Problems-Solved/tree/master/0973-k-closest-points-to-origin) |
 ## K-D Tree
 |  |
