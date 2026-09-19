@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0908-smallest-range-i](https://github.com/kunjsonker/Leetcode-Problems-Solved/tree/master/0908-smallest-range-i) |
 | [0973-k-closest-points-to-origin](https://github.com/kunjsonker/Leetcode-Problems-Solved/tree/master/0973-k-closest-points-to-origin) |
 | [1140-stone-game-ii](https://github.com/kunjsonker/Leetcode-Problems-Solved/tree/master/1140-stone-game-ii) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/kunjsonker/Leetcode-Problems-Solved/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1510-stone-game-iv](https://github.com/kunjsonker/Leetcode-Problems-Solved/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/kunjsonker/Leetcode-Problems-Solved/tree/master/1563-stone-game-v) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/kunjsonker/Leetcode-Problems-Solved/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
@@ -396,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0836-rectangle-overlap](https://github.com/kunjsonker/Leetcode-Problems-Solved/tree/master/0836-rectangle-overlap) |
 | [0973-k-closest-points-to-origin](https://github.com/kunjsonker/Leetcode-Problems-Solved/tree/master/0973-k-closest-points-to-origin) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/kunjsonker/Leetcode-Problems-Solved/tree/master/1401-circle-and-rectangle-overlapping) |
 ## K-D Tree
 |  |
 | ------- |
