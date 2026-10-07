@@ -189,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/kunjsonker/Leetcode-Problems-Solved/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/kunjsonker/Leetcode-Problems-Solved/tree/master/0032-longest-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/kunjsonker/Leetcode-Problems-Solved/tree/master/0115-distinct-subsequences) |
+| [0301-remove-invalid-parentheses](https://github.com/kunjsonker/Leetcode-Problems-Solved/tree/master/0301-remove-invalid-parentheses) |
 | [0424-longest-repeating-character-replacement](https://github.com/kunjsonker/Leetcode-Problems-Solved/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/kunjsonker/Leetcode-Problems-Solved/tree/master/0567-permutation-in-string) |
 | [0678-valid-parenthesis-string](https://github.com/kunjsonker/Leetcode-Problems-Solved/tree/master/0678-valid-parenthesis-string) |
@@ -314,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/kunjsonker/Leetcode-Problems-Solved/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/kunjsonker/Leetcode-Problems-Solved/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/kunjsonker/Leetcode-Problems-Solved/tree/master/0226-invert-binary-tree) |
+| [0301-remove-invalid-parentheses](https://github.com/kunjsonker/Leetcode-Problems-Solved/tree/master/0301-remove-invalid-parentheses) |
 | [0547-number-of-provinces](https://github.com/kunjsonker/Leetcode-Problems-Solved/tree/master/0547-number-of-provinces) |
 | [1096-brace-expansion-ii](https://github.com/kunjsonker/Leetcode-Problems-Solved/tree/master/1096-brace-expansion-ii) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/kunjsonker/Leetcode-Problems-Solved/tree/master/1448-count-good-nodes-in-binary-tree) |
@@ -339,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/kunjsonker/Leetcode-Problems-Solved/tree/master/0022-generate-parentheses) |
 | [0077-combinations](https://github.com/kunjsonker/Leetcode-Problems-Solved/tree/master/0077-combinations) |
+| [0301-remove-invalid-parentheses](https://github.com/kunjsonker/Leetcode-Problems-Solved/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/kunjsonker/Leetcode-Problems-Solved/tree/master/1096-brace-expansion-ii) |
 ## Enumeration
 |  |
