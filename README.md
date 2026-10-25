@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0973-k-closest-points-to-origin](https://github.com/kunjsonker/Leetcode-Problems-Solved/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/kunjsonker/Leetcode-Problems-Solved/tree/master/1046-last-stone-weight) |
 | [1140-stone-game-ii](https://github.com/kunjsonker/Leetcode-Problems-Solved/tree/master/1140-stone-game-ii) |
+| [1254-number-of-closed-islands](https://github.com/kunjsonker/Leetcode-Problems-Solved/tree/master/1254-number-of-closed-islands) |
 | [1386-cinema-seat-allocation](https://github.com/kunjsonker/Leetcode-Problems-Solved/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/kunjsonker/Leetcode-Problems-Solved/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1563-stone-game-v](https://github.com/kunjsonker/Leetcode-Problems-Solved/tree/master/1563-stone-game-v) |
@@ -275,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/kunjsonker/Leetcode-Problems-Solved/tree/master/0074-search-a-2d-matrix) |
 | [0835-image-overlap](https://github.com/kunjsonker/Leetcode-Problems-Solved/tree/master/0835-image-overlap) |
+| [1254-number-of-closed-islands](https://github.com/kunjsonker/Leetcode-Problems-Solved/tree/master/1254-number-of-closed-islands) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/kunjsonker/Leetcode-Problems-Solved/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/kunjsonker/Leetcode-Problems-Solved/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Linked List
@@ -325,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/kunjsonker/Leetcode-Problems-Solved/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/kunjsonker/Leetcode-Problems-Solved/tree/master/0547-number-of-provinces) |
 | [0572-subtree-of-another-tree](https://github.com/kunjsonker/Leetcode-Problems-Solved/tree/master/0572-subtree-of-another-tree) |
+| [1254-number-of-closed-islands](https://github.com/kunjsonker/Leetcode-Problems-Solved/tree/master/1254-number-of-closed-islands) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/kunjsonker/Leetcode-Problems-Solved/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -337,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0301-remove-invalid-parentheses](https://github.com/kunjsonker/Leetcode-Problems-Solved/tree/master/0301-remove-invalid-parentheses) |
 | [0547-number-of-provinces](https://github.com/kunjsonker/Leetcode-Problems-Solved/tree/master/0547-number-of-provinces) |
 | [1096-brace-expansion-ii](https://github.com/kunjsonker/Leetcode-Problems-Solved/tree/master/1096-brace-expansion-ii) |
+| [1254-number-of-closed-islands](https://github.com/kunjsonker/Leetcode-Problems-Solved/tree/master/1254-number-of-closed-islands) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/kunjsonker/Leetcode-Problems-Solved/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/kunjsonker/Leetcode-Problems-Solved/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Binary Tree
@@ -517,6 +521,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/kunjsonker/Leetcode-Problems-Solved/tree/master/0547-number-of-provinces) |
+| [1254-number-of-closed-islands](https://github.com/kunjsonker/Leetcode-Problems-Solved/tree/master/1254-number-of-closed-islands) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/kunjsonker/Leetcode-Problems-Solved/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Graph Theory
 |  |
