@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-last-stone-weight](https://github.com/kunjsonker/Leetcode-Problems-Solved/tree/master/1046-last-stone-weight) |
 | [1140-stone-game-ii](https://github.com/kunjsonker/Leetcode-Problems-Solved/tree/master/1140-stone-game-ii) |
 | [1254-number-of-closed-islands](https://github.com/kunjsonker/Leetcode-Problems-Solved/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/kunjsonker/Leetcode-Problems-Solved/tree/master/1267-count-servers-that-communicate) |
 | [1386-cinema-seat-allocation](https://github.com/kunjsonker/Leetcode-Problems-Solved/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/kunjsonker/Leetcode-Problems-Solved/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1563-stone-game-v](https://github.com/kunjsonker/Leetcode-Problems-Solved/tree/master/1563-stone-game-v) |
@@ -302,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/kunjsonker/Leetcode-Problems-Solved/tree/master/0074-search-a-2d-matrix) |
 | [0835-image-overlap](https://github.com/kunjsonker/Leetcode-Problems-Solved/tree/master/0835-image-overlap) |
 | [1254-number-of-closed-islands](https://github.com/kunjsonker/Leetcode-Problems-Solved/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/kunjsonker/Leetcode-Problems-Solved/tree/master/1267-count-servers-that-communicate) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/kunjsonker/Leetcode-Problems-Solved/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/kunjsonker/Leetcode-Problems-Solved/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/kunjsonker/Leetcode-Problems-Solved/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -357,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/kunjsonker/Leetcode-Problems-Solved/tree/master/0547-number-of-provinces) |
 | [0572-subtree-of-another-tree](https://github.com/kunjsonker/Leetcode-Problems-Solved/tree/master/0572-subtree-of-another-tree) |
 | [1254-number-of-closed-islands](https://github.com/kunjsonker/Leetcode-Problems-Solved/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/kunjsonker/Leetcode-Problems-Solved/tree/master/1267-count-servers-that-communicate) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/kunjsonker/Leetcode-Problems-Solved/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/kunjsonker/Leetcode-Problems-Solved/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/kunjsonker/Leetcode-Problems-Solved/tree/master/3841-palindromic-path-queries-in-a-tree) |
@@ -372,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/kunjsonker/Leetcode-Problems-Solved/tree/master/0547-number-of-provinces) |
 | [1096-brace-expansion-ii](https://github.com/kunjsonker/Leetcode-Problems-Solved/tree/master/1096-brace-expansion-ii) |
 | [1254-number-of-closed-islands](https://github.com/kunjsonker/Leetcode-Problems-Solved/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/kunjsonker/Leetcode-Problems-Solved/tree/master/1267-count-servers-that-communicate) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/kunjsonker/Leetcode-Problems-Solved/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/kunjsonker/Leetcode-Problems-Solved/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/kunjsonker/Leetcode-Problems-Solved/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -536,6 +540,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [1267-count-servers-that-communicate](https://github.com/kunjsonker/Leetcode-Problems-Solved/tree/master/1267-count-servers-that-communicate) |
 | [2029-stone-game-ix](https://github.com/kunjsonker/Leetcode-Problems-Solved/tree/master/2029-stone-game-ix) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/kunjsonker/Leetcode-Problems-Solved/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Simulation
@@ -558,6 +563,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0547-number-of-provinces](https://github.com/kunjsonker/Leetcode-Problems-Solved/tree/master/0547-number-of-provinces) |
 | [1254-number-of-closed-islands](https://github.com/kunjsonker/Leetcode-Problems-Solved/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/kunjsonker/Leetcode-Problems-Solved/tree/master/1267-count-servers-that-communicate) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/kunjsonker/Leetcode-Problems-Solved/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/kunjsonker/Leetcode-Problems-Solved/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Graph Theory
