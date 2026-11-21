@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/kunjsonker/Leetcode-Problems-Solved/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/kunjsonker/Leetcode-Problems-Solved/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/kunjsonker/Leetcode-Problems-Solved/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/kunjsonker/Leetcode-Problems-Solved/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3364-minimum-positive-sum-subarray](https://github.com/kunjsonker/Leetcode-Problems-Solved/tree/master/3364-minimum-positive-sum-subarray) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/kunjsonker/Leetcode-Problems-Solved/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/kunjsonker/Leetcode-Problems-Solved/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/kunjsonker/Leetcode-Problems-Solved/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/kunjsonker/Leetcode-Problems-Solved/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/kunjsonker/Leetcode-Problems-Solved/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/kunjsonker/Leetcode-Problems-Solved/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/kunjsonker/Leetcode-Problems-Solved/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/kunjsonker/Leetcode-Problems-Solved/tree/master/3483-unique-3-digit-even-numbers) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/kunjsonker/Leetcode-Problems-Solved/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
@@ -259,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/kunjsonker/Leetcode-Problems-Solved/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/kunjsonker/Leetcode-Problems-Solved/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/kunjsonker/Leetcode-Problems-Solved/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/kunjsonker/Leetcode-Problems-Solved/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3498-reverse-degree-of-a-string](https://github.com/kunjsonker/Leetcode-Problems-Solved/tree/master/3498-reverse-degree-of-a-string) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/kunjsonker/Leetcode-Problems-Solved/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/kunjsonker/Leetcode-Problems-Solved/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
@@ -356,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/kunjsonker/Leetcode-Problems-Solved/tree/master/0572-subtree-of-another-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/kunjsonker/Leetcode-Problems-Solved/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/kunjsonker/Leetcode-Problems-Solved/tree/master/1448-count-good-nodes-in-binary-tree) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/kunjsonker/Leetcode-Problems-Solved/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/kunjsonker/Leetcode-Problems-Solved/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Depth-First Search
 |  |
@@ -374,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1254-number-of-closed-islands](https://github.com/kunjsonker/Leetcode-Problems-Solved/tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/kunjsonker/Leetcode-Problems-Solved/tree/master/1267-count-servers-that-communicate) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/kunjsonker/Leetcode-Problems-Solved/tree/master/1448-count-good-nodes-in-binary-tree) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/kunjsonker/Leetcode-Problems-Solved/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/kunjsonker/Leetcode-Problems-Solved/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/kunjsonker/Leetcode-Problems-Solved/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Breadth-First Search
