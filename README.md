@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3903-smallest-stable-index-i](https://github.com/kunjsonker/Leetcode-Problems-Solved/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/kunjsonker/Leetcode-Problems-Solved/tree/master/3904-smallest-stable-index-ii) |
 | [3925-concatenate-array-with-reverse](https://github.com/kunjsonker/Leetcode-Problems-Solved/tree/master/3925-concatenate-array-with-reverse) |
+| [3934-smallest-unique-subarray](https://github.com/kunjsonker/Leetcode-Problems-Solved/tree/master/3934-smallest-unique-subarray) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/kunjsonker/Leetcode-Problems-Solved/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## Two Pointers
 |  |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3718-smallest-missing-multiple-of-k](https://github.com/kunjsonker/Leetcode-Problems-Solved/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/kunjsonker/Leetcode-Problems-Solved/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3731-find-missing-elements](https://github.com/kunjsonker/Leetcode-Problems-Solved/tree/master/3731-find-missing-elements) |
+| [3934-smallest-unique-subarray](https://github.com/kunjsonker/Leetcode-Problems-Solved/tree/master/3934-smallest-unique-subarray) |
 | [3945-digit-frequency-score](https://github.com/kunjsonker/Leetcode-Problems-Solved/tree/master/3945-digit-frequency-score) |
 ## Math
 |  |
@@ -221,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2333-minimum-sum-of-squared-difference](https://github.com/kunjsonker/Leetcode-Problems-Solved/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/kunjsonker/Leetcode-Problems-Solved/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/kunjsonker/Leetcode-Problems-Solved/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
+| [3934-smallest-unique-subarray](https://github.com/kunjsonker/Leetcode-Problems-Solved/tree/master/3934-smallest-unique-subarray) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -466,6 +469,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/kunjsonker/Leetcode-Problems-Solved/tree/master/0572-subtree-of-another-tree) |
+| [3934-smallest-unique-subarray](https://github.com/kunjsonker/Leetcode-Problems-Solved/tree/master/3934-smallest-unique-subarray) |
 ## Minimax
 |  |
 | ------- |
@@ -626,4 +630,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/kunjsonker/Leetcode-Problems-Solved/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
+## Rolling Hash
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/kunjsonker/Leetcode-Problems-Solved/tree/master/3934-smallest-unique-subarray) |
+## Suffix Array
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/kunjsonker/Leetcode-Problems-Solved/tree/master/3934-smallest-unique-subarray) |
 <!---LeetCode Topics End-->
